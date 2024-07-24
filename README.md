@@ -1,5 +1,12 @@
-# 德州扑克游戏项目说明
-游戏基于cocos creator 2.3开发，游戏素材料仿腾讯的天天德州，本程序仅用于研究学习cocos creator技术，不得用于非法行为，谢谢！
+# 德州扑克游戏后端项目说明
 
-本项目是游戏前端程序，后端基于nodejs+koa+mysql实现，请查看本人的game_server项目
+本项目是德州扑克游戏后端，基于nodejs+koa+mysql实现
+
+# 项目启动方式
+1.下载源码
+2.安装node环境
+3.安装mysql5.7数据库，并用doc中的数据库备份文件创建数据库
+4.运行 npm install
+5.执行 node app.js
+
 
