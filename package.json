@@ -1,0 +1,22 @@
+{
+  "name": "game_s_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.21.1",
+    "koa": "^2.12.0",
+    "koa-body": "^4.1.3",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^8.0.8",
+    "lodash": "^4.17.15",
+    "moment": "^2.25.3",
+    "mysql": "^2.18.1",
+    "ws": "^7.3.0"
+  }
+}
